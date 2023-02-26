@@ -6,4 +6,4 @@ Html5 and CSS3 used
 
 <h2> Gif added</h2>
 
-![]()
+![](coin.gif)
